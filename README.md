@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00F700&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Vini.;A+Data+Scientist+and+AI+Developer.;Coding+%7C+Analysis.;+ML Specialist.">
-</p>
-
 # 👋 Hi, I'm Vini! 
 
 Welcome to my GitHub profile! I'm a **Data Science and AI Developer** with a passion for creating innovative solutions. Here's a little about me:
