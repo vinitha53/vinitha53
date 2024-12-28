@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vini! 
 
-Welcome to my GitHub profile! I'm a **Data Science and AI Developer** with a passion for creating innovative solutions. Here's a little about me:
+Welcome to my GitHub profile! I'm a **Data Scientist , AI Developer & ML Specialist** with a passion for creating innovative solutions. Here's a little about me:
 
 ---
 
@@ -36,11 +36,7 @@ Welcome to my GitHub profile! I'm a **Data Science and AI Developer** with a pas
 
 ---
 
-### 📊 **GitHub Stats**
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
 
 ### 🎯 **My Motto**
 > "Data is the new oil, and I'm here to refine it!"
