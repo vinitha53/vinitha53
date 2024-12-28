@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinit! 
+# 👋 Hi, I'm Vini! 
 
 Welcome to my GitHub profile! I'm a **Data Science and AI Developer** with a passion for creating innovative solutions. Here's a little about me:
 
